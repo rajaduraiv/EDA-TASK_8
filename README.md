@@ -375,7 +375,7 @@ plt.show()
 ### Output
 A bar chart comparing average math, reading, and writing scores across parental education levels.
 
-![Average Scores by Parental Education](images/parental_education_scores.png)
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/d566d8cc-9019-4b39-b0ea-44dbc4eef5ba" />
 
 ## 19. Average Scores by Lunch Type
 
@@ -397,7 +397,8 @@ plt.show()
 ### Output
 A bar chart comparing average subject scores for standard and free/reduced lunch categories.
 
-![Average Scores by Lunch Type](images/lunch_scores.png)
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/0cc33f80-ed51-4fb7-9103-8bb7d3f3c75d" />
+
 
 ## 20. Subject Scores by Test Preparation
 
@@ -425,11 +426,9 @@ Three boxplots are produced:
 - Reading score by test preparation
 - Writing score by test preparation
 
-![Math Score by Test Preparation](images/math_test_prep.png)
+<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/3cc9e3bc-a50d-4103-8ed4-cf03c26f0c00" />
 
-![Reading Score by Test Preparation](images/reading_test_prep.png)
-
-![Writing Score by Test Preparation](images/writing_test_prep.png)
+<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/c45cd638-c3ca-4d4a-b60a-436887fdabbe" />
 
 ## 21. Relationship Between Subject Scores
 
@@ -454,11 +453,13 @@ Three scatter plots are generated:
 - Math vs Writing
 - Reading vs Writing
 
-![Math vs Reading Scores](images/math_reading_scatter.png)
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/ca0adf7e-ee0c-4204-b059-0f29edc94f71" />
 
-![Math vs Writing Scores](images/math_writing_scatter.png)
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/330bb48f-4bcd-4b89-8da7-21e4d7cefb54" />
 
-![Reading vs Writing Scores](images/reading_writing_scatter.png)
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/618a77a9-05f0-47b0-bd59-c1c648e0e4fe" />
+
+
 
 ## 22. Correlation Heatmap
 
@@ -480,9 +481,10 @@ plt.show()
 ```
 
 ### Output
-A heatmap showing correlation values among math, reading, and writing scores.
+A heatmap showing correlation values among math, reading, and writing scores
 
-![Correlation Between Subject Scores](images/score_correlation_heatmap.png)
+<img width="614" height="470" alt="image" src="https://github.com/user-attachments/assets/c9c14d54-1b1c-4729-95e3-6d37a3054cd5" />
+
 
 ## 23. Key Findings
 - The dataset has **1,000 records** and **8 original columns**.
